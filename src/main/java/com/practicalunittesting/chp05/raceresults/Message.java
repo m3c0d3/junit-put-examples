@@ -7,4 +7,5 @@ package com.practicalunittesting.chp05.raceresults;
  * @author Tomek Kaczanowski
  */
 public interface Message {
+    ResultCategory getCategory();
 }
